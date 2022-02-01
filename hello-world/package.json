@@ -8,8 +8,8 @@
   "license": "MIT",
   "commands": [
     {
-      "name": "render-markdown",
-      "title": "Render Markdown",
+      "name": "greet",
+      "title": "Greet",
       "description": "",
       "mode": "view"
     }
